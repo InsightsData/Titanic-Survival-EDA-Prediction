@@ -22,8 +22,8 @@ Data source
 
 Incentives
 -
-  - To do Exploratory Data Analysis
-  - Predict survival
+  - To do an Exploratory Data Analysis
+  - To predict survival
   
 Data cleaning
 -
