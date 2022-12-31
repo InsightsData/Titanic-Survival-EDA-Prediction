@@ -28,13 +28,8 @@ Incentives
 Data cleaning
 -
   - Check and compare columns in train and test datasets
-  - Check data types and 
-  - Change column names for better readability
-  - Remove columns containing NAs of more than a half
-  - Replace “88” in Fall with 0 for more accurate calculation result (“88” represents “None”: didn’t fall in the past 12 years)
-  - Delete “77”/”99” in SleepTime & Fall (“77”/”99” represent answers of “Not sure”/”Refused(to answer)”)
-  - Remove NAs in HeartDisease & SleepTime & Marital & Fall & BMI
-  - Convert certain variables to factors and add labels
+  - Check data types and missing values
+  - Replace missing values with mean and mode
 
 EDA
 - 
