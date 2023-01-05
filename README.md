@@ -48,6 +48,7 @@ EDA
  6. Over half of the passengers embarked at Cherbourg survived, while passengers who embarked at Southampton 
     survived the least.
   - Why?
+  
 [Money secured safety.]
 1. The first class tickets were more expensive on average.
 2. People who paid for the highest price got rescued. Even though two of them were men.
