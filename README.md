@@ -28,13 +28,13 @@ Data cleaning
 EDA
 - 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/120230351/210700391-c656edbe-b0ff-4831-a88b-af635fd7e6e6.png">
-![image](https://user-images.githubusercontent.com/120230351/210700426-8e895fa8-995e-48ad-8958-d6866283e98f.png)
-![image](https://user-images.githubusercontent.com/120230351/210700461-a63e8322-1a44-4313-9b9c-ffa4d5454109.png)
-![image](https://user-images.githubusercontent.com/120230351/210700462-afcdcd1b-8133-4854-877c-d1cbcc805092.png)
-![image](https://user-images.githubusercontent.com/120230351/210700481-272b0d83-5e3d-46ae-9051-eb41e048589f.png)
-![image](https://user-images.githubusercontent.com/120230351/210700506-e09cfb0b-87c4-4576-baf0-43b4199db732.png)
-![image](https://user-images.githubusercontent.com/120230351/210700523-d46fa1a0-e821-4f48-8b6c-a93f0f3cae0d.png)
-![image](https://user-images.githubusercontent.com/120230351/210700546-452420ec-5bba-4d38-b518-ff3a85f28678.png)
+<img width="693" alt="image" src="https://user-images.githubusercontent.com/120230351/210701471-98e11e55-21a2-4377-87a9-8c7647ad07fd.png">
+<img width="689" alt="image" src="https://user-images.githubusercontent.com/120230351/210701529-59b79aa2-69ad-460d-af7f-1d79a5e7e4ef.png">
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/120230351/210701583-075b1668-dd21-4f75-ba31-c835adb97136.png">
+<img width="385" alt="image" src="https://user-images.githubusercontent.com/120230351/210701638-99e78135-93c2-4eaa-86e7-097813dab11c.png">
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/120230351/210701679-f46cd672-54f7-47b6-9747-17997bff4379.png">
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/120230351/210701719-691cd828-3b8d-42d8-8288-c21187aaf534.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/120230351/210701751-790ac5b4-5a95-4c8d-b317-4445142d6250.png">
 
   - Who survived and who did not?
  1. People in the first class had the highest survival rate(0.63), compared to the second class(0.47) and the 
