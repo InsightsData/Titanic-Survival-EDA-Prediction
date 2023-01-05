@@ -77,7 +77,7 @@ Prediction
 
   - Check correlation
   - Split data
-  - Choose classification algorithmns
+  - Choose classification algorithms
   - Cross validation
   - Tune Random Forest
 
